@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="matrix.hpp">
+    <ClInclude Include="Matrix.hpp">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
